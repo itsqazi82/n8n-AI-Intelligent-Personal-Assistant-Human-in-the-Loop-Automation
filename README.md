@@ -61,3 +61,6 @@ This creates a safer workflow:
 This project turns multiple manual tasks into a **single natural-language interface**, while adding an approval layer for actions that can have real-world consequences.
 
 It is also an exploration of how **AI Agents, tool calling, memory, automation, and human approval** can work together in a practical system.
+
+<img width="1604" height="489" alt="image" src="https://github.com/user-attachments/assets/b04fd76b-5498-45a1-bbb8-0fd910dfc40f" />
+<img width="1671" height="718" alt="image" src="https://github.com/user-attachments/assets/8ae19c37-effd-4504-bfaa-8fd8b33fe4ce" />
